@@ -4,6 +4,9 @@ my super simple personal notes collection.
 
 Powered by GitHub Pages (created following [this guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)). This repo is cloned under a sub-directory in my [Obsidian Vault](https://obsidian.md/), so I can compose content using Obsidian, and publish it by committing and pushing to GitHub.
 
+# Notes
+- [[log/2024/07/pycon-us-2024-recordings/README|2024/07 PyCon US 2024 Recordings]]
+
 ### TODO
 
 - [ ] [Customize theme](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
