@@ -12,4 +12,5 @@ Powered by GitHub Pages (created following [this guide](https://docs.github.com/
 
 - [ ] [Customize theme](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 - [ ] [Configure a custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
+- [ ] Figure out some build process to convert Obsidian-isms to GitHub Pages friendly Markdown (like Obsidian links)
 - [ ] Maybe transfer content from my old blog
